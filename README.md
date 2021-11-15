@@ -26,5 +26,7 @@ Every day at 00.00 UTC:
 
 The "Absolute Strategy" is mostly in place to handle cases where the Percentage Strategy generates amounts too low to be traded.
 
+The price of the limit orders created will be PRICE * 0.99 for buys and 1.01 for sells.
+
 # Value on selected dates:
 13 Nov 2021:  Account value: 9.9819504422 USD. USD: 9.22, BTC: 0.00001194
