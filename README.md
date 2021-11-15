@@ -5,7 +5,7 @@ The Bitcoin Rainbow Trader Bot trades daily based on sentiment from https://www.
 The sentiment from crypto folks is "DCA and HODL", meaning many do not have an exit strategy and no intention on trying to time the market. This trading robot is a funny attempt at trying to beat the market.
 
 # Bootstraping
-The initial input to the robot was 2 USDC for testing. 1 USD was used to buy BTC. Then added 8 additional USDC, for a total of **10 USDC on 12th Nov 2021**.
+The initial input to the robot was 2 USD for testing. 1 USD was used to buy BTC. Then added 8 additional USD, for a total of **10 USD on 12th Nov 2021**.
 
 # Strategy
 Every day at 00.00 UTC: 
@@ -19,14 +19,14 @@ Every day at 00.00 UTC:
 |FOMO intensifies|Sell 0.50 USD worth of BTC|Sell 4% of BTC|
 |Is this a bubble?|Sell 0.25 USD worth of BTC|Sell 2% of BTC|
 |HODL!|0|0|
-|Still cheap|Buy for 0.25 USDC|Buy for 2% of USDC|
-|Accumulate|Buy for 0.50 USDC|Buy for 4% of USDC|
-|BUY!|Buy for 0.75 USDC|Buy for 8% of USDC|
-|Basically a Fire Sale|Buy for 1.00 USDC|Buy for 16% of USDC|
+|Still cheap|Buy for 0.25 USD|Buy for 2% of USD|
+|Accumulate|Buy for 0.50 USD|Buy for 4% of USD|
+|BUY!|Buy for 0.75 USD|Buy for 8% of USD|
+|Basically a Fire Sale|Buy for 1.00 USD|Buy for 16% of USD|
 
 The "Absolute Strategy" is mostly in place to handle cases where the Percentage Strategy generates amounts too low to be traded.
 
-The price of the limit orders created will be PRICE * 0.99 for buys and 1.01 for sells.
+The price of the limit orders created will be current price * 0.99 for buys and 1.01 for sells.
 
 # Value on selected dates:
 13 Nov 2021:  Account value: 9.9819504422 USD. USD: 9.22, BTC: 0.00001194
