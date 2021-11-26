@@ -4,8 +4,11 @@ The Bitcoin Rainbow Trader Bot trades daily based on sentiment from https://www.
 # Purpose
 The sentiment from crypto folks is "DCA and HODL", meaning many do not have an exit strategy and no intention on trying to time the market. This trading robot is a funny attempt at trying to beat the market.
 
-# Bootstraping
+# Testing
 The initial input to the robot was 2 USD for testing. 1 USD was used to buy BTC. Then added 8 additional USD, for a total of **10 USD on 12th Nov 2021**.
+
+# Actual beginning
+10 USD on 26th Nov, 2021.
 
 # Strategy
 Every day at 00.00 UTC: 
@@ -29,4 +32,4 @@ The "Absolute Strategy" is mostly in place to handle cases where the Percentage 
 The price of the limit orders created will be current price * 0.99 for buys and 1.01 for sells.
 
 # Value on selected dates:
-13 Nov 2021:  Account value: 9.9819504422 USD. USD: 9.22, BTC: 0.00001194
+26 Nov 2021:  Account value: 10.00 USD. USD: 10.00, BTC: 0.00
