@@ -7,6 +7,8 @@ The Bitcoin Trader Bot trades daily based on sentiment from external sites and a
 
 See the .md files in this repository for specifics.
 
+If you have any good suggestions on other sites to use, please let me know.
+
 # Purpose
 The sentiment from crypto folks is "DCA and HODL", meaning many do not have an exit strategy and no intention on trying to time the market. This trading robot is a funny attempt at trying to beat the market.
 
