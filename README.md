@@ -16,4 +16,5 @@ The sentiment from crypto folks is "DCA and HODL", meaning many do not have an e
 
 | Date |Fear and Greed | Rainbow |
 |---|---|---|
+|26th Dec 2021|10.05 USD|10.00 USD|
 |26th Nov 2021|10.00 USD|10.00 USD|
