@@ -14,7 +14,9 @@ The sentiment from crypto folks is "DCA and HODL", meaning many do not have an e
 
 # Historic performance
 
-| Date |Fear and Greed | Rainbow |
-|---|---|---|
-|26th Dec 2021|10.05 USD|10.00 USD|
-|26th Nov 2021|10.00 USD|10.00 USD|
+| Date |BTC USD Price|Fear and Greed | Rainbow | Portfolio Balancing |
+|---|---|---|---|---|
+|4th Feb 2022|41709|7.46 USD|9.56 USD|9.23 USD|
+|4th Jan 2022|45814|9.29 USD|10.00 USD|10.00 USD|
+|26th Dec 2021|50801|10.05 USD|10.00 USD||
+|26th Nov 2021|57212|10.00 USD|10.00 USD||
